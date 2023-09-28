@@ -1,0 +1,89 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\A - Work\\1st and 2nd year\\Studies\\SWT2781\\Project\\SWT2781 Project 1 Final\\SWT2781 Project 1\\Test Code\\SWT2781_GroupProject\\SWT2781_GroupProject.csproj": {}
+  },
+  "projects": {
+    "E:\\A - Work\\1st and 2nd year\\Studies\\SWT2781\\Project\\SWT2781 Project 1 Final\\SWT2781 Project 1\\Test Code\\SWT2781_GroupProject\\SWT2781_GroupProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\A - Work\\1st and 2nd year\\Studies\\SWT2781\\Project\\SWT2781 Project 1 Final\\SWT2781 Project 1\\Test Code\\SWT2781_GroupProject\\SWT2781_GroupProject.csproj",
+        "projectName": "SWT2781_GroupProject",
+        "projectPath": "E:\\A - Work\\1st and 2nd year\\Studies\\SWT2781\\Project\\SWT2781 Project 1 Final\\SWT2781 Project 1\\Test Code\\SWT2781_GroupProject\\SWT2781_GroupProject.csproj",
+        "packagesPath": "C:\\Users\\emile\\.nuget\\packages\\",
+        "outputPath": "E:\\A - Work\\1st and 2nd year\\Studies\\SWT2781\\Project\\SWT2781 Project 1 Final\\SWT2781 Project 1\\Test Code\\SWT2781_GroupProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\emile\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[106.0.5249.6100, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
